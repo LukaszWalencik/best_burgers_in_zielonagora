@@ -1,4 +1,4 @@
-package com.example.best_burgers_in_zielonagora
+package com.best_burgers_in_zgmple.best_burgers_in_zielonagora
 
 import io.flutter.embedding.android.FlutterActivity
 
